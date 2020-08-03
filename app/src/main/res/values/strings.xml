@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mobile</string>
+    <string name="menu_label_1">Home</string>
+    <string name="menu_label_2">Cart</string>
+    <string name="menu_label_3">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
